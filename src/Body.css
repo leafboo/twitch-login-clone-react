@@ -1,0 +1,54 @@
+input {
+    background-color: transparent;
+    border: solid;
+    border-width: 1.4px;
+    color: gray;
+    width: 374px;
+    height: 26px;
+    border-radius: 7px;
+    transition: outline 0.15s;
+}
+.input-container > input:focus {
+    outline: 3px solid #a970ff;
+}
+.input-container > .username-input {
+    margin-bottom: 10px;
+}
+.input-container {
+    width: 380px;
+}
+.input-container > p {
+    margin-bottom: 8px;
+}
+.login-button-container, .login-button-container > button {
+    width: 380px;
+}
+.login-button-container > button {
+    cursor: pointer;
+}
+.forgot-password-container {
+    margin-top: 10px;
+    margin-bottom: 16px;
+}
+.forgot-password-container > a {
+    text-decoration: none;
+    color: #a970ff;
+    font-size: 12px;
+    transition: text-decoration 0.15s, color 0.15s;
+}
+.forgot-password-container > a:hover {
+    text-decoration: underline;
+    color: #8054c2;
+}
+
+.login-button-container > button {
+    color: white;
+    border: none;
+    background-color: #9147ff;
+    padding: 7px;
+    transition: background-color 0.15s;
+    border-radius: 4px;
+}
+.login-button-container > button:hover {
+    background-color: #5c16c5;
+}

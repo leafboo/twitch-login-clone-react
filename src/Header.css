@@ -1,0 +1,28 @@
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.twitch-logo {
+    width: 40px;
+    margin-right: 15px;
+}
+.title > span {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: .2px;
+}
+.login-container {
+    margin-top: 18px;
+    width: 380px;
+}
+.login {
+    margin-right: 10px;
+    cursor: pointer;
+}
+.signup {
+    cursor: pointer;
+}
+.login-container > hr {
+    border-color: rgb(102, 102, 102);
+}
