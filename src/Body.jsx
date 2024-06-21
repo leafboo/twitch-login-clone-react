@@ -9,7 +9,7 @@ export default function Body() {
             </div>
             <div className='input-container'>
                 <p>Password</p>
-                <input type="text" />
+                <input type="password" />
             </div>
             <div className='forgot-password-container'>
                 <a href="">Trouble logging in?</a>
