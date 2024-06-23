@@ -1,7 +1,6 @@
-# To run:
+# 📺 Twitch Login Page Clone:
 
-"npm install" to install vite   
-"npm run dev" to run application
+ A Static twitch clone made in React.
 
-# Link
-https://twitch-login-clone-react.vercel.app
+# 📷 Image 
+
