@@ -1,4 +1,4 @@
-# 📺 Twitch Login Page Clone:
+# 📺 Twitch Login Page Clone
 
  A Static Twitch Login Page clone made in React.
 
