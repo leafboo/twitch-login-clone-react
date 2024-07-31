@@ -10,6 +10,7 @@ input {
 }
 .input-container > input:focus {
     outline: 3px solid #a970ff;
+    border-style: none; 
 }
 .input-container > .username-input {
     margin-bottom: 10px;
